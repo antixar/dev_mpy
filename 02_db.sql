@@ -1,0 +1,9 @@
+-- 1) create a SQL dump of the next structs of entities:
+--    * users with some data for authorization
+--    * user comments
+--    A count of users > 1000, a count of comments > 10**8.
+--    This DB has to use for saving of comments and for searching they by user name
+-- 2) write example requests:
+-- 2.1) search the first name of user with the biggest amount of dayly comments
+-- 2.2) block the first 10 users without comments
+-- 2.3) select a list of users blocked 1 years ago but with attempts of authorization for a last month  

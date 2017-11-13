@@ -1,0 +1,9 @@
+# write a documentation for the next RESTful requests:
+# 1) loading a list of books using some filters:
+# * by languages
+# * by categories
+# * by years
+# 2) loading of a detail book info
+# 3) loading of critics' comments 
+# 3) edit any attributes of some book
+# 4) remove some book
