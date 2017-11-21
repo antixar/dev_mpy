@@ -1,2 +1,2 @@
-# write the most effective code for a generation md5 of binary data
-# with a size more than 4TBytes
+# write the most effective code for a generation md5 of 100 binary files
+# A size of every file more than 4TBytes
